@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+le-gite-du-plessis-montanel50.odoo.com	TRUE	/	FALSE	1999999999	frontend_lang	fr_FR
+le-gite-du-plessis-montanel50.odoo.com	TRUE	/	FALSE	1999999999	session_id	RAZXtausMl6zdNv8tfuF7tZR4zFzNs1Fe8USp1RLo3tXINwYURocAwbTd2KgRsu-DCuIqv2gmfxbRHbrfSOr
+
